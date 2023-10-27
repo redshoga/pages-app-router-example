@@ -6,7 +6,7 @@ const Page = () => {
 
   return (
     <div>
-      <div>pages/app-sample/[id].tsx</div>
+      <div>app/app-sample/[id]/page.tsx</div>
       <div>id: {params?.id}</div>
     </div>
   );
