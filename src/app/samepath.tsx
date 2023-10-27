@@ -1,5 +1,5 @@
 const Page = () => {
-  return <div>app/page.tsx</div>;
+  return <div>samepath/page.tsx in app</div>;
 };
 
 export default Page;

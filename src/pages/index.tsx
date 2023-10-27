@@ -1,5 +1,4 @@
 const Page = () => {
-  return <div>app/page.tsx</div>;
+  return <div>pages/index.tsx</div>;
 };
-
 export default Page;
